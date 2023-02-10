@@ -1,5 +1,5 @@
 import React from "react";
-
+import LOGO from "../assets/logotrans.svg"
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -17,9 +17,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+          <a className="navbar-brand page-scroll" href={''}>
+          <img src={LOGO} width="170" height="170" />
+          </a>{''}
         </div>
 
         <div
@@ -42,19 +42,10 @@ export const Navigation = (props) => {
                 Services
               </a>
             </li>
-            <li>
-              <a href="#portfolio" className="page-scroll">
-                Gallery
-              </a>
-            </li>
+           
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
               </a>
             </li>
             <li>
