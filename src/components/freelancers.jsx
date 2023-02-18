@@ -1,11 +1,11 @@
 import React from "react";
 
-export const Fans = (props) => {
+export const Freelancers = (props) => {
   return (
-    <div id="Fans" className="text-center">
+    <div id="Freelancers" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>For Fans</h2>
+          <h2>For Freelancers</h2>
         </div>
         <div className="row">
           {props.data

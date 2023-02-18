@@ -1,13 +1,13 @@
 import React from "react";
 
-export const Artists = (props) => {
+export const Clients = (props) => {
   return (
-    <div id="Artists" className="text-center">
+    <div id="Clients" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>For Artists</h2>
+          <h2>For Clients</h2>
           <p>
-        The Industrys evolving. No ones making it off of fractions of a penny per stream. Learn more about how you can leverage the platform to increase your fan base and revenues to new heights! 
+        The Industrys changing connecting with top talent for short term or long term projects is now easier than ever.
           </p>
         </div>
         <div className="row">
