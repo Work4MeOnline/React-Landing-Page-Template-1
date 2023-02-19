@@ -1,11 +1,10 @@
 @media screen and (max-width: 768px) {
-  #Fans {
+  #Freelancers {
     padding: 20px;
     width: 111%;
   }
   #about,
-  #Artists,
-  #Insights,
+  #You,
   #contact,
   #footer {
     width: 111%;
