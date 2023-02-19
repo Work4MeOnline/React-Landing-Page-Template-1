@@ -72,7 +72,7 @@ export const Contact = (props) => {
           <p>
             &copy; 2023 W4MO
             <a href="http://www.workformeonline.com" rel="nofollow">
-              OnlySpitters
+              Work For Me Online 
             </a>
           </p>
         </div>
