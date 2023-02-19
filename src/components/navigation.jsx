@@ -1,5 +1,8 @@
 import React from "react";
-import LOGO from "../assets/logotrans.svg"
+import LOGO from "../assets/logo2023.jpg";
+
+
+
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -38,8 +41,8 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#Clients" className="page-scroll">
-                Clients
+              <a href="#You" className="page-scroll">
+                For You
               </a>
             </li>
            

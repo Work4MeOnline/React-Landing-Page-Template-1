@@ -1,14 +1,14 @@
 {
   "Header": {
-    "title": "Coming Soon!",
-    "paragraph": "The way we work and hire is evolving."
+    "title": "Free for Freelancers!*.",
+    "paragraph": "An Efficient Hiring short term gig marketplace where freelancers, clients, companies, and marketers connect."
   },
   "About": {
     "paragraph": "Work Smarter Hire Smarter",
     "Why": [
       "Hire Efficiently",
-      "Hire For Less",
-      "Hire Trained Professionals",
+      "Hire For Free",
+      "Hire Top Talent",
       "Hire Smarter"
     ],
     "Why2": [
@@ -19,66 +19,65 @@
     ]
   },
   
-  "Clients": [
+  "You": [
     {
       "icon": "fa fa-thumbs-up",
-      "name": "Subscriptions",
-      "text": "The more you engage the more likely you'll keep your followers month after month."
+      "name": "Best Talent",
+      "text": "Best Talent By Vote Hangout or Standout."
     },
     {
       "icon": " fa fa-calendar",
-      "name": "Event Shoutouts/Hosting",
-      "text": "Birthdays, Anniversarys, or any special event gathering you name your price for virutal or in person shows."
+      "name": "More Jobs",
+      "text": "Lower Bids and No Platform Fees."
         },
     {
       "icon": "fa fa-video-camera",
-      "name": "Pay Per View",
-      "text": "Take the camera on the road and enjoy the extra revenue of near limitless seating or skip the road and host a speacial event."
+      "name": "Better Matches",
+      "text": "90 Second introductory Video Biographies"
     },
     {
       "icon": "fa fa-shopping-cart",
-      "name": "Merchandise",
+      "name": "Share Projects",
       "text": "Tshirts and more Merchandise is one of your biggest money makers. Sell gear to Freelancers."
     },
     {
       "icon": "fa fa-envelope",
-      "name": "Fan Mail",
-      "text": "Your biggest fan  is out there and willing to bid on dming you!"
+      "name": "FREE",
+      "text": "No Platform Fees"
     },
     {
       "icon": "fa fa-line-chart",
-      "name": "Influencer Endorsements",
-      "text": "Place your availabilty and go with the highest bid cancel if your minimum reserve is not met. Not limited to one platform YOU ARE A BRAND"
+      "name": "More Than Basic",
+      "text": "Go Oracle with Extended reports and functionality, including grouping and sorting"
     }
   ],
  
   
   "Contact": {
     "address": "San Francisco, CA 94103 ",
-    "email": "support@workformeonline.com",
-    "twitter": "https://twitter.com/w4mo"
+    "email": "support@workformeonline.com"
     
   },
   "Freelancers": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Subscriptions",
-      "text": "Subscribe to your favorite Artist for exclusive content as a super follower within there group."
+      "title": "Affordable",
+      "text": "Best rates in the industry sets us one step above other freelance marketplaces."
     },
     {
       "icon": "fa fa-cloud-download",
-      "title": "Reconginiztion Feed",
-      "text": "Clients drop 15 second shortclip versus videos while connecting with new Freelancers."
+      "title": "Free Job Posts",
+      "text": "Browse Efficient Hires, and Top Talent that aligns with your vision and requirments."
     },
     {
       "icon": "fa fa-group",
-      "title": "Groups",
-      "text": "Fan Groups to connect like minded Freelancers with there favorite Clients for exclusive music and more."
+      "title": "Post, Vet, Hire.",
+      "text": "It's more than the highest bidder it's the most efficient talent."
     },
     {
       "icon": "fa fa-magic",
-      "title": "PPV",
-      "text": "Watch your favorite Artist on Tour live from your couch or anywhere."
+      "title": "Oracle",
+      "text": "Talent Gain Better insights on competition and more..."
     }
   ]
 }

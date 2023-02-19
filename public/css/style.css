@@ -307,19 +307,19 @@ header .intro-text {
   line-height: 24px;
   margin: 30px 0;
 }
-/* Clients Section */
-#Clients {
+/* You Section */
+#You {
   padding: 100px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
-#Clients .service-desc {
+#You .service-desc {
   margin: 10px 10px 20px;
 }
-#Clients h2 {
+#You h2 {
   color: #fff;
 }
-#Clients .section-title h2::after {
+#You .section-title h2::after {
   position: absolute;
   content: "";
   background: rgba(255, 255, 255, 0.3);
@@ -329,7 +329,7 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
-#Clients i.fa {
+#You i.fa {
   font-size: 42px;
   width: 120px;
   height: 120px;
@@ -339,15 +339,15 @@ header .intro-text {
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
-#Clients h3 {
+#You h3 {
   font-weight: 500;
   padding: 5px 0;
   color: #fff;
 }
-#Clients p {
+#You p {
   color: rgba(255, 255, 255, 0.75);
 }
-#Clients .service-desc {
+#You .service-desc {
   margin-bottom: 40px;
 }
 /* Portfolio Section */

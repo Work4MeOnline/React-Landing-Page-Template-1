@@ -5,7 +5,7 @@ export const Freelancers = (props) => {
     <div id="Freelancers" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>For Freelancers</h2>
+          <h2>Find Gigs You'll Thrive In.. </h2>
         </div>
         <div className="row">
           {props.data
